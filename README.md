@@ -46,7 +46,7 @@ El proyecto cuenta con tres manuales detallados:
 ## 🚀 **Instalación**
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/kitchsys.git
+    git clone https://github.com/11Elian10/Sistema-de-Cocina-KITCHSYS-
     ```
 2. Configura el servidor web con Apache o Nginx.
 3. Crea la base de datos ejecutando el script `kitchsys_db.sql`.
